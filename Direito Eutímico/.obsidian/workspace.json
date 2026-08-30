@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "27b545bd702ea514",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b15ff818867344c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50f6ec7fc7606d95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projetos/Reforma do Código de Processo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reforma do Código de Processo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf4e7c32fff27103",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac3f3696bca45cb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8f8b2cab7cb7847",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "60d239c8255fcc25",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "6bba97ffa2fd2825",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "92d6846de76408da",
+    "type": "split",
+    "children": [
+      {
+        "id": "4261055023e42fe9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7deba0366239f45c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bem-vindo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "c453400f16f625ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bem-vindo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "4fea28a792d92cbb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "2768ef78b4fb7cdf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "02a04abab77e1fba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bem-vindo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "50f6ec7fc7606d95",
+  "lastOpenFiles": [
+    "Decretos Sapienciais/DS 118.26.md",
+    "Decretos Sapienciais/DS 117.26.md",
+    "Decretos Sapienciais/DS 116.26.md",
+    "Decretos Sapienciais/DS 115.26.md",
+    "Projetos/Reforma do Código de Processo.md",
+    "Ministério da Justiça/Autos/AE 001.26.md",
+    "defesa_integral_mestriner_quezia_AE_001_2026.pdf",
+    "Ministério da Justiça/Súmula da Jurisprudência.md",
+    "Ministério da Justiça/Autos/ADI 001.26.md",
+    "Ministério da Justiça/Autos/AIC 001.26.md",
+    "Ministério da Justiça/Autos/AIC 002.26.md",
+    "Ministério da Justiça/Autos/AIC 003.26.md",
+    "Ministério da Justiça/Autos/AIC 004.26.md",
+    "Ministério da Justiça/Autos/AP 003.26.md",
+    "Ministério da Justiça/Autos/AP 002.26.md",
+    "Ministério da Justiça/Autos/AP 001.26.md",
+    "Ministério da Justiça/Autos/AO 001.26.md",
+    "Acao_Eleitoral_Anulacao_Candidatura_Eutimia.pdf",
+    "Decretos Sapienciais/DS 114.26.md",
+    "Decretos Sapienciais/DS 113.26.md",
+    "Decretos Sapienciais/DS 112.26.md",
+    "Projetos/NOVO CÓDIGO ELEITORAL.md",
+    "Códigos/Novo Código Penal.md",
+    "Códigos/Código de Processo 2ed.md",
+    "Decretos Sapienciais/DS 110.26.md",
+    "Atos Institucionais/AI 004.26.md",
+    "Atos Institucionais/AI 007.26.md",
+    "Atos Institucionais/AI 008.26.md",
+    "Projetos"
+  ]
+}

@@ -1,0 +1,12 @@
+# Arquivos privados
+Escritório/
+
+# Backup local
+Direito Eutímico.zip
+
+# Estado da interface do Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Lixeira
+.trash/
