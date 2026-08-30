@@ -56,10 +56,3 @@ Art. 15. § 1. O Supremo Fundador poderá, de forma parcimoniosa e conforme a ra
 § 2. O Supremo Fundador detém competência subsidiária universal e ilimitada.
 
 Art. 16. Os Decretos Sapienciais informarão a hermenêutica jurídica do Reino da Eutimia, servindo de vetor interpretativo com aplicação extensiva.
-
-
-
-
-
-
-git remote add origin "https://github.com/dragaodotradicionalismo/Direito-Eutimico.git"
