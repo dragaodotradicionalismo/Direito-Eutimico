@@ -26,7 +26,7 @@ Súmula 9
 A abdicação de qualquer título deve ser expressa, em homenagem ao direito adquirido.
 
 Súmula 10
-[CANCELADA]
+(CANCELADA)
 
 Súmula 11
 É possível, a qualquer tempo, investir terceiro no mesmo título nobiliárquico renunciado por outrem, por ser faculdade ilimitada do Supremo Fundador.
@@ -55,7 +55,7 @@ Permanecem em vigor, após a restauração do Reino da Eutimia, os Decretos Sapi
 Súmula 19
 O reconhecimento da perenidade de uma situação jurídica tem efeitos declaratórios e retroativos.
 
-Súmula 20 [CANCELADA]
+Súmula 20 (CANCELADA)
 A reeleição é limitada a um mandato subsequente.
 
 Súmula 21
@@ -70,22 +70,22 @@ As intimações pessoais podem ser feitas fora dos canais do Ministério da Just
 Súmula 24
 O processo contra réu ausente é válido, desde que ciente o Supremo Fundador, em cuja pessoa subsiste o cumprimento das normas processuais.
 
-Súmula 25
+Súmula 25 (CANCELADA)
 O voto dos jurados prescinde de forma prescrita, desde que seja possível extrair inequivocamente o juízo de culpa do jurado sobre o réu.
 
 Súmula 26
 O ordenamento jurídico, as ideias, os símbolos e ritos sapienciais têm direito a proteção à honra.
 
-Súmula 27
+Súmula 27 (CANCELADA)
 Nas ações constitucionais, a causa de pedir não vincula o juiz, nos termos do art. 45 do Código de Processo.
 
-Súmula 28
+Súmula 28 (CANCELADA)
 O nome das decisões terminativas proferidas em recurso é ultimação, cuja natureza é idêntica à da sentença.
 
 Súmula 29
 Na dúvida, deve-se decidir contra o réu.
 
-Súmula 30 [CANCELADA]
+Súmula 30 (CANCELADA)
 O Ministério Público do Reino da Eutimia foi extinto tacitamente pelo Decreto Sapiencial n. 97/2026.
 
 Súmula 31
@@ -118,7 +118,7 @@ A Emenda Constitucional Nº 003/2026 não alterou nem suprimiu a competência do
 Súmula 40
 Os arts. 1º a 5º, e seus respectivos parágrafos, do Decreto Sapiencial n. 101/2026 foram tacitamente revogados.
 
-Súmula 41
+Súmula 41 (CANCELADA)
 As menções legislativas aos Arquiduques referem-se, por adaptação sapiencial, aos Reverendíssimos Primus Fundadores.
 
 Súmula 42
@@ -157,7 +157,7 @@ As publicações do canal de regras não constituem norma jurídica, tendo cará
 Súmula 53
 Absolutamente tudo que Dr. Danadon von Delicien disser no âmbito das Províncias Unidas do Reino da Eutimia é presumido verdadeiro até que se prove o contrário.
 
-Súmula Nº 54 [CANCELADA]
+Súmula Nº 54 (CANCELADA)
 Todos os Governadores Provinciais são iguais em direitos, deveres e prerrogativas, independentemente de seu grau de nobreza, gozando de foro por prerrogativa de função, de modo que somente poderão ser processados mediante atuação do Ministério Público Federal e julgados pelo Sapiencial Tribunal Eutímico — STE.
 
 Súmula 55
