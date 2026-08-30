@@ -62,3 +62,4 @@ Art. 16. Os Decretos Sapienciais informarão a hermenêutica jurídica do Reino 
 
 
 
+git remote add origin "https://github.com/dragaodotradicionalismo/Direito-Eutimico.git"
