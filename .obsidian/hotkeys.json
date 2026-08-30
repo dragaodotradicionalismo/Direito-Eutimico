@@ -1,5 +1,5 @@
 {
-  "obsidian-git:push": [
+  "obsidian-git:commit-push-specified-message": [
     {
       "modifiers": [],
       "key": "F5"
