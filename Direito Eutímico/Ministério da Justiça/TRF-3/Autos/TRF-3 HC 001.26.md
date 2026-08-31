@@ -70,3 +70,30 @@ Nestes termos, pede deferimento.
 Cidade da Eutimia, 29 de agosto de 2026.
 DRAGÃO DO TRADICIONALISMO
 Pretor-Mor do Reino Unido da Eutimia
+
+---
+
+DECISÃO
+
+EMBARGOS DE DECLARAÇÃO NO "HC 003.2026"
+
+RELATOR: REV.MO EXMO. DR. ARACY "NAZARYAN" BALABANIAN
+EMBARGANTE: MINISTÉRIO PÚBLICO DA EUTIMIA
+EMBARGADO: PRIMEIRA-DAMA BELLA
+
+O Ministério Público requiriu a correção de um erro na numeração do processo, alegando que este habeas corpus é o primeiro julgado por este Tribunal e, por isso, deveria ser numerado como o primeira, e não terceiro.
+
+O recurso é tempestivo, pois foi apresentado no mesmo dia da decisão, dentro do prazo de 1 dia previsto em lei (art. 79, I, do CPE).
+
+O pedido também é cabível, já que a lei permite esse tipo de recurso justamente para corrigir erros materiais, como erros de numeração (art. 90, V, do CPE).
+
+E, no mérito, o Ministério Público tem razão: pela lei (art. 15, III, do CPE), cada Tribunal tem sua própria numeração de processos, e este é realmente o primeiro habeas corpus deste Tribunal.
+
+Portanto, defiro o pedido: a numeração do processo passa de "HC 003.2026" para "TRF3-HC 001.2026".
+
+O restante da decisão, não muda.
+
+Cidade da Eutimia, 29 de agosto de 2026.
+NAZARYAN DO MODERNISMO
+Juiz do TRF3
+Publique-se. Cumpra-se. Honre-se. Execute-se sapiencialmente. GLÓRIA A EUFORIA!

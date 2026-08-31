@@ -165,3 +165,12 @@ O rito colegiado pode ser aplicado por órgãos jurisdicionais monocráticos.
 
 Súmula 56
 O rol do art. 3º do Decreto Sapiencial n. 112/2026 é exemplificativo e pode receber interpretação extensiva.
+
+Súmula 57
+Os arts. 100 e 101 do Código de Processo Eutímico constituem um microssistema que permite a integração de técnicas de controle de constitucionalidade ao procedimento da ação de impugnação normativa.
+
+Súmula 58
+A interpretação conjunta dos arts. 97 e 100 do Código de Processo Eutímico dispensa a manifestação processual do expedidor do ato impugnado em sede de controle de constitucionalidade.
+
+Súmula 59
+O juiz pode, no exercício da adaptação sapiencial das normas processuais, suspender o processo por tempo determinado e razoável.
