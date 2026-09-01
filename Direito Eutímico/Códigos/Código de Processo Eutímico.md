@@ -29,6 +29,13 @@ Art. 8. § 1. Para postular em juízo, é necessário ter legitimidade e interes
 Art. 9. § 1. O terceiro juridicamente interessado poderá ingressar no processo, a qualquer tempo, em qualquer dos polos, por petição, apreciada pelo juiz.
 § 2. Os atos de uma parte não prejudicarão a outra que se encontra no mesmo polo da ação, salvo se indivisível o objeto do litígio.
 
+Art. 9-A. O Ministério Público poderá atuar como substituto processual.
+
+Art. 9-B. São assegurados ao Ministério Público, em qualquer processo, os direitos de:
+I - manifestação;
+II - petição; e
+III - recurso.
+
 Art. 10. Quando o exigir o interesse público ou o requerer qualquer das partes, o juiz incluirá terceiro, em seu devido polo processual, que poderá contestar sua inclusão.
 
 CAPÍTULO III - DA COMPETÊNCIA
@@ -97,6 +104,8 @@ Art. 28. § 1. O juiz e as autoridades competentes poderão instaurar, de ofíci
 § 2. Os elementos constantes de inquérito gozam de presunção relativa de veracidade.
 
 Art. 29. Uma vez apresentada a demanda, o juiz buscará a verdade real, podendo determinar a produção de provas, bem como apresentar fatos constantes de inquérito.
+
+Art. 29-A. O juiz poderá, demonstrando fato relevante que possa causar prejuízo no prosseguimento do feito, suspender o processo por prazo determinado e razoável, após o qual haverá o automático reestabelecimento do curso processual.
 
 CAPÍTULO VIII - DAS PROVAS
 
@@ -182,7 +191,8 @@ Art. 55. § 1. O juiz determinará a emenda da petição inicial inepta, indican
 Art. 56. § 1. A petição inicial será indeferida, obstando que se apresente nova ação sobre os mesmos fatos pela mesma parte, quando o autor:
 I - carecer de interesse processual;
 II – após notificado em despacho, não corrigir, por três vezes, os erros apontados pelo juiz no prazo fixado;
-III - aduzir pedido manifestamente contrário aos precedentes jurisprudenciais, salvo se demonstrar a superação do entendimento ou sua inaplicabilidade ao caso. § 2. Este artigo aplica-se aos recursos.
+III - aduzir pedido manifestamente contrário aos precedentes jurisprudenciais, salvo se demonstrar a superação do entendimento ou sua inaplicabilidade ao caso.
+§ 2. Este artigo aplica-se aos recursos.
 
 Art. 57. O interesse do autor pode limitar-se à declaração da existência, da inexistência ou do modo de ser de uma relação jurídica.
 
@@ -219,6 +229,12 @@ Art. 67. Os demais Magistrados apresentarão voto no prazo regimental.
 Art. 68. Presume-se, na ausência de voto, o acompanhamento integral do voto do relator.
 
 Art. 69. Para cada matéria analisada será realizada contagem de votos individual.
+
+Art. 69-A. Finalizado o julgamento, o Presidente do Tribunal lavrará acórdão, que conterá:
+I - ementa;
+II - relatório;
+III - o voto vencedor;
+IV - os votos vencidos, total ou parcialmente.
 
 Art. 70. Cada integrante do colegiado poderá pedir vista dos autos, pelo prazo regimental.
 
@@ -269,12 +285,19 @@ V - fatos novos, se houver, nos recursos amplos;
 VI - os fundamentos jurídicos;
 VII - pedido.
 
+Art. 78-A. Quando o recurso tramitar em canal diferente, parte recorrente deverá apresentar, no processo originário, termo de interposição de recurso, com indicação:
+I - do recurso interposto;
+II - do órgão jurisdicional ad quem;
+III - da decisão recorrida.
+
 Art. 79. É de:
 I - 1 (um) dia o prazo para interpor agravos e opor embargos;
 II - 3 (três) dias o prazo para interpor apelação e recurso de cassação;
 III - 7 (sete) dias o prazo para interpor recurso extraordinário.
 
 Art. 80. O prazo para recorrer conta-se a partir do dia seguinte à publicação da decisão.
+
+Art. 80-A. O início do prazo recursal e a operação do trânsito em julgado das decisões independerão de manifestação judicial.
 
 Art. 81. Nos recursos de revista, o órgão jurisdicional:
 I - está autorizado a avaliar toda a matéria fática e jurídica suscitada;
@@ -371,6 +394,10 @@ I - perante o órgão jurisdicional competente para apreciar recurso das decisõ
 II - subsidiariamente, na primeira instância.
 
 Art. 109. Concedido, o habeas corpus fará cessar a coação ilegal, dispondo o juiz de amplos poderes e dos meios necessários para efetivar a decisão.
+
+Art. 109-A. Após a decisão inicial, concessiva ou denegatória da ordem, será citada a autoridade coatora, para se manifestar no prazo de 1 (um) dia.
+
+Art. 109-B. Não se aplicam ao habeas corpus os arts. 38 e 49, § 1, I.
 
 CAPÍTULO VI - DO CONFLITO DE COMPETÊNCIA
 
