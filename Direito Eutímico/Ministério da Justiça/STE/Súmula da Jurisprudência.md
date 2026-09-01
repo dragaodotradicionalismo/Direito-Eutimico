@@ -97,7 +97,7 @@ A legislação processual aplica-se imediatamente aos processos em curso, por in
 Súmula 33
 A aplicação imediata das penas, conforme prevista na Ordem Institucional n. 1/26, restringe-se aos crimes previstos no Código Penal e não impede a propositura de ação penal perante a autoridade judicial.
 
-Súmula 34
+Súmula 34 (CANCELADA)
 O controle de constitucionalidade pode ser exercido por via concentrada ou difusa.
 
 Súmula 35
@@ -174,3 +174,9 @@ A interpretação conjunta dos arts. 97 e 100 do Código de Processo Eutímico d
 
 Súmula 59
 O juiz pode, no exercício da adaptação sapiencial das normas processuais, suspender o processo por tempo determinado e razoável.
+
+Súmula 60
+Os Juízes Federais Honorários, ainda que denominados, anteriormente ao AI 013/2026, Juízes Federais, não se confundem com os Juízes Federais, sendo este título distinto e criado pelo art. 2, II do referido Ato Institucional e aquele absorvido por tal dispositivo.
+
+Súmula 61
+As menções ao controle de constitucionalidade concentrado e difuso devem ser interpretadas conforme a adaptação sapiencial para referirem-se às vias principal e incidental, uma vez que aqueles, à época de seu uso, coincidiam com estas, por concentrarem-se os processos judiciais no Sapiencial Tribunal Eutímico.

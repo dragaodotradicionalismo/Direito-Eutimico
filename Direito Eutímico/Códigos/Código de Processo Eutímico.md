@@ -366,7 +366,7 @@ Art. 99. § 1. Os efeitos da decisão em ação de impugnação normativa são r
 
 Art. 100. O pedido e a causa de pedir não vinculam o Sapiencial Tribunal Eutímico na ação de impugnação normativa.
 
-Art. 101. O controle de validade das normas pode ser exercido, pelo Sapiencial Tribunal Eutímico, de forma concentrada ou difusa.
+Art. 101. O controle de validade das normas pode ser exercido, pelo Sapiencial Tribunal Eutímico, pela via principal ou incidental.
 
 CAPÍTULO III – DA AÇÃO DE INTEGRAÇÃO COMUNITÁRIA
 
