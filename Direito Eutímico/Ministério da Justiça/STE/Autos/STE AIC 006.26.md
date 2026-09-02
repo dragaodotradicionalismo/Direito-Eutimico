@@ -137,3 +137,109 @@ Cumpra-se.
 Cidade da Eutimia, 1º de setembro de 2026.
 DRAGÃO DO TRADICIONALISMO
 Pretor-Mor das Províncias Unidas do Reino da Eutimia
+
+---
+SAPIENCIAL TRIBUNAL EUTÍMICO
+STE AIC 006.2026
+
+AÇÃO DE INTEGRAÇÃO COMUNITÁRIA
+
+REQUERENTE: PAPAGA
+RELATOR: MIN. DRAGÃO DO TRADICIONALISMO
+PARECERISTA: S.E.R. LUIZ BIAGGIONI, SUPREMO FUNDADOR
+
+PARECER HERMENÊUTICO
+
+Em atenção à solicitação formulada pelo eminente Relator, com fundamento nos arts. 98 e 102, §2º, do Código de Processo Eutímico, apresento interpretação hermenêutica do Decreto Sapiencial nº 110/2026.
+
+I. O Decreto Sapiencial nº 110/2026 operou a substituição da antiga Constituição por uma ordem constitucional de natureza sapiencial, não tendo produzido vazio constitucional ou institucional.
+
+II. O próprio Decreto Sapiencial nº 110/2026 constitui norma fundamental da nova ordem inaugurada em 11 de agosto de 2026, devendo ser interpretado conjuntamente com os Decretos Sapienciais, Princípios Fundamentais e demais normas superiores posteriormente integradas ao sistema.
+
+III. Os Decretos Sapienciais integram o ápice normativo da ordem constitucional sapiencial, sem que isso importe afirmar que todas as suas disposições possuam, necessariamente, conteúdo materialmente constitucional.
+
+IV. A revogação da antiga Constituição não implicou a invalidação automática do direito anterior, tendo o Decreto nº 110/2026 consagrado princípio de continuidade e recepção normativa, preservando atos, situações e normas anteriores que permaneçam compatíveis com a ordem superveniente.
+
+V. As disposições do Decreto nº 110/2026 relativas às fontes, à integração e à hierarquia normativa devem ser interpretadas em conjunto com as manifestações sapienciais supervenientes, especialmente quando posteriores e de igual autoridade normativa, nos termos do próprio art. 29 do Decreto.
+
+VI. Compete ao Sapiencial Tribunal Eutímico interpretar e aplicar o ordenamento, sem que sua jurisdição possa ser compreendida como instrumento de supressão da autoridade normativa originária e superior do Poder Sapiencial.
+
+VII. A interpretação do Decreto nº 110/2026 deverá sempre privilegiar a unidade, continuidade, estabilidade, coerência e adaptação do ordenamento eutímico, evitando-se tanto a restauração da Constituição revogada quanto a declaração desnecessária de ruptura ou invalidade de normas anteriormente constituídas.
+
+É o parecer.
+
+Cidade da Eutimia, 1º de setembro de 2026.
+
+LUIZ BIAGGIONI
+SUPREMO FUNDADOR
+
+---
+SAPIENCIAL TRIBUNAL EUTÍMICO
+STE AIC 006.2026
+
+AÇÃO DE INTEGRAÇÃO COMUNITÁRIA
+
+RELATOR : MIN. DRAGÃO DO TRADICIONALISMO
+REQUERENTE : PAPAGA
+PARECERISTA : S.E.R. LUIZ BIAGGIONI, SUPREMO FUNDADOR, M. D.
+
+DESPACHO
+
+O parecer juntado revela-se insuficiente, na medida em que não abordou as contradições e perplexidades do Decreto Sapiencial 110/2026.
+INTIME-SE o parecerista para apresentação de novo parecer.
+
+Ciência ao Supremo Fundador.
+Publique-se. Intime-se.
+Cumpra-se.
+
+Cidade da Eutimia, 1º de setembro de 2026.
+DRAGÃO DO TRADICIONALISMO
+Pretor-Mor das Províncias Unidas do Reino da Eutimia
+
+---
+
+SAPIENCIAL TRIBUNAL EUTÍMICO
+STE AIC 006.2026
+PARECER HERMENÊUTICO
+
+Em cumprimento à intimação, esclareço que as aparentes contradições do Decreto Sapiencial nº 110/2026 não devem ser necessariamente compreendidas como antinomias.
+
+A lógica pode ser ilustrada pela proposição: “Haddad é Lula; Lula é o povo.” Objetivamente, Haddad não é Lula, e Lula não é o povo; contudo, no plano simbólico e representativo, tais identidades podem operar funcionalmente.
+
+De modo semelhante, o DS 110 revoga a antiga Constituição e, ao mesmo tempo, institui nova ordem constitucional; rompe com a estrutura anterior e, simultaneamente, preserva seus efeitos compatíveis; reconhece a jurisdição do STE e preserva a supremacia sapiencial.
+
+Trata-se, portanto, de coexistência de planos jurídicos distintos, e não necessariamente de contradição inválida.
+
+A estrutura aproxima-se, em caráter meramente ilustrativo, dos paradoxos orwellianos de “guerra é paz” e “liberdade é escravidão”: proposições aparentemente opostas podem coexistir quando exprimem sentidos funcionais distintos.
+
+OPINO, assim, que as perplexidades do DS 110 devem ser resolvidas por interpretação sistemática, preservando-se a unidade, continuidade e coerência da ordem constitucional sapiencial.
+
+É o parecer.
+
+Cidade da Eutimia, 1º de setembro de 2026.
+
+LUIZ BIAGGIONI
+SUPREMO FUNDADOR
+
+---
+
+SAPIENCIAL TRIBUNAL EUTÍMICO
+STE AIC 006.2026
+
+AÇÃO DE INTEGRAÇÃO COMUNITÁRIA
+
+RELATOR : MIN. DRAGÃO DO TRADICIONALISMO
+REQUERENTE : PAPAGA
+PARECERISTA : S.E.R. LUIZ BIAGGIONI, SUPREMO FUNDADOR, M. D.
+
+DESPACHO
+
+Recebido o parecer. O Ilustre Relator consigna sua vontade de desistir. Em seguida, concluam-se os autos.
+
+Ciência ao Supremo Fundador.
+Publique-se. Intime-se.
+Cumpra-se.
+
+Cidade da Eutimia, 1º de setembro de 2026.
+DRAGÃO DO TRADICIONALISMO
+Pretor-Mor das Províncias Unidas do Reino da Eutimia
