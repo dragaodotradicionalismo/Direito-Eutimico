@@ -180,3 +180,6 @@ Os Juízes Federais Honorários, ainda que denominados, anteriormente ao AI 013/
 
 Súmula 61
 As menções ao controle de constitucionalidade concentrado e difuso devem ser interpretadas conforme a adaptação sapiencial para referirem-se às vias principal e incidental, uma vez que aqueles, à época de seu uso, coincidiam com estas, por concentrarem-se os processos judiciais no Sapiencial Tribunal Eutímico.
+
+Súmula 62
+O juízo de admissibilidade dos recursos é feito pelo órgão jurisdicional ad quem.
