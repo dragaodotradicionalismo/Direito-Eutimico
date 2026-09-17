@@ -136,7 +136,7 @@ A abertura política promovida pelo Decreto Sapiencial n. 108/2026 impede a exig
 Súmula 46
 Preclui o direito de apresentar prova pré-constituída quando não anexada à petição inicial.
 
-Súmula 47
+Súmula 47 (CANCELADA)
 Disposição de Código não prevalece contra Ato Institucional.
 
 Súmula 48
@@ -154,7 +154,7 @@ Súmula Nº 51
 Súmula 52
 As publicações do canal de regras não constituem norma jurídica, tendo caráter meramente instrutivo.
 
-Súmula 53
+Súmula 53 (CANCELADA)
 Absolutamente tudo que Dr. Danadon von Delicien disser no âmbito das Províncias Unidas do Reino da Eutimia é presumido verdadeiro até que se prove o contrário.
 
 Súmula Nº 54 (CANCELADA)
@@ -183,3 +183,9 @@ As menções ao controle de constitucionalidade concentrado e difuso devem ser i
 
 Súmula 62
 O juízo de admissibilidade dos recursos é feito pelo órgão jurisdicional ad quem.
+
+Súmula 63
+A edição de súmulas não impede revisão do precedente judicial pelos meios processuais.
+
+Súmula 64
+O Tribunal Sapiencial Eleitoral não detém competência penal.
