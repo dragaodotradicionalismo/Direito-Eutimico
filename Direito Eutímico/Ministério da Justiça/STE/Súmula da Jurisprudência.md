@@ -189,3 +189,6 @@ A edição de súmulas não impede revisão do precedente judicial pelos meios p
 
 Súmula 64
 O Tribunal Sapiencial Eleitoral não detém competência penal.
+
+Súmula 65
+Não se exige prova do direito, pelo princípio *iura novit curia*.
