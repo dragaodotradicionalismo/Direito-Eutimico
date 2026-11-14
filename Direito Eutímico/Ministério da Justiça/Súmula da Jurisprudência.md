@@ -160,7 +160,7 @@ Absolutamente tudo que Dr. Danadon von Delicien disser no âmbito das Província
 Súmula Nº 54 (CANCELADA)
 Todos os Governadores Provinciais são iguais em direitos, deveres e prerrogativas, independentemente de seu grau de nobreza, gozando de foro por prerrogativa de função, de modo que somente poderão ser processados mediante atuação do Ministério Público Federal e julgados pelo Sapiencial Tribunal Eutímico — STE.
 
-Súmula 55
+Súmula 55 (CANCELADA)
 O rito colegiado pode ser aplicado por órgãos jurisdicionais monocráticos.
 
 Súmula 56
@@ -175,20 +175,29 @@ A interpretação conjunta dos arts. 97 e 100 do Código de Processo Eutímico d
 Súmula 59
 O juiz pode, no exercício da adaptação sapiencial das normas processuais, suspender o processo por tempo determinado e razoável.
 
-Súmula 60
+Súmula 60 (CANCELADA)
 Os Juízes Federais Honorários, ainda que denominados, anteriormente ao AI 013/2026, Juízes Federais, não se confundem com os Juízes Federais, sendo este título distinto e criado pelo art. 2, II do referido Ato Institucional e aquele absorvido por tal dispositivo.
 
 Súmula 61
 As menções ao controle de constitucionalidade concentrado e difuso devem ser interpretadas conforme a adaptação sapiencial para referirem-se às vias principal e incidental, uma vez que aqueles, à época de seu uso, coincidiam com estas, por concentrarem-se os processos judiciais no Sapiencial Tribunal Eutímico.
 
-Súmula 62
+Súmula 62 (CANCELADA)
 O juízo de admissibilidade dos recursos é feito pelo órgão jurisdicional ad quem.
 
 Súmula 63
 A edição de súmulas não impede revisão do precedente judicial pelos meios processuais.
 
-Súmula 64
+Súmula 64 (CANCELADA)
 O Tribunal Sapiencial Eleitoral não detém competência penal.
 
 Súmula 65
 Não se exige prova do direito, pelo princípio *iura novit curia*.
+
+Súmula 66
+A Super Medida Provisória Constitucional n. 002/2026 revogou o Código de Processo Eutímico.
+
+Súmula 67
+São irrecorríveis as decisões proferidas em inquérito, ressalvada a interposição de recurso fundador.
+
+Súmula 68
+O efeito suspensivo do recurso é operado, ope legis, por sua interposição, e, ope judicis, pela decisão que o conceder.
